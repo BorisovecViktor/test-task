@@ -1,0 +1,80 @@
+[
+  {
+    "title": "4G180",
+    "image": "https://scoop.co.za/download/marketing/images/4G180.jpg",
+    "category": "Tenda",
+    "price": "952.17"
+  },
+  {
+    "title": "4G680",
+    "image": "https://scoop.co.za/download/marketing/images/4G680.jpg",
+    "category": "Tenda",
+    "price": "1252.17"
+  },
+  {
+    "title": "ACB-AC",
+    "image": "https://scoop.co.za/download/marketing/images/ACB-AC.jpg",
+    "category": "Ubiquiti",
+    "price": "1282.61"
+  },
+  {
+    "title": "ACB-ISP",
+    "image": "https://scoop.co.za/download/marketing/images/ACB-ISP.jpg",
+    "category": "Ubiquiti",
+    "price": "478.26"
+  },
+  {
+    "title": "AF-11FX",
+    "image": "https://scoop.co.za/download/marketing/images/AF-11FX.jpg",
+    "category": "Ubiquiti",
+    "price": "10691.3"
+  },
+  {
+    "title": "AF-11FXDUPL",
+    "image": "https://scoop.co.za/download/marketing/images/AF-11FXDUPL.jpg",
+    "category": "Ubiquiti",
+    "price": "3300"
+  },
+  {
+    "title": "AF-11G35",
+    "image": "https://scoop.co.za/download/marketing/images/AF-11G35.jpg",
+    "category": "Ubiquiti",
+    "price": "6652.17"
+  },
+  {
+    "title": "AF-5XHD",
+    "image": "https://scoop.co.za/download/marketing/images/AF-5XHD.jpg",
+    "category": "Ubiquiti",
+    "price": "6865.22"
+  },
+  {
+    "title": "AFI-INSK",
+    "image": "https://scoop.co.za/download/marketing/images/AFI-INSK.jpg",
+    "category": "Ubiquiti",
+    "price": "3126.09"
+  },
+  {
+    "title": "AFI-INSR",
+    "image": "https://scoop.co.za/download/marketing/images/AFI-INSR.jpg",
+    "category": "Ubiquiti",
+    "price": "1717.39"
+  },
+  {
+    "title": "AIR-D523X",
+    "image": "https://scoop.co.za/download/marketing/images/AIR-D523X.jpg",
+    "category": "Ubiquiti",
+    "price": "1821.74"
+  },
+  {
+    "title": "AIR-D530",
+    "image": "https://scoop.co.za/download/marketing/images/AFI-INSR.jpg",
+    "category": "Ubiquiti",
+    "price": "2304.35"
+  },
+  {
+    "title": "AIR-D530LW",
+    "image": "https://scoop.co.za/download/marketing/images/AFI-INSR.jpg",
+    "category": "Ubiquiti",
+    "price": "1734.78"
+  }
+]
