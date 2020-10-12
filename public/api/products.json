@@ -4,7 +4,7 @@
     "title": "4G180",
     "image": "https://scoop.co.za/download/marketing/images/4G180.jpg",
     "category": "Tenda",
-    "price": "952.17",
+    "price": 952.17,
     "details": "Tenda 4G LTE 150Mbps Mobile WiFi Router | 4G180"
   },
   {
@@ -12,7 +12,7 @@
     "title": "4G680",
     "image": "https://scoop.co.za/download/marketing/images/4G680.jpg",
     "category": "Tenda",
-    "price": "1252.17",
+    "price": 1252.17,
     "details": "Tenda 4G LTE 300Mbps WiFi Router | 4G680"
   },
   {
@@ -20,7 +20,7 @@
     "title": "ACB-AC",
     "image": "https://scoop.co.za/download/marketing/images/ACB-AC.jpg",
     "category": "Ubiquiti",
-    "price": "1282.61",
+    "price": 1282.61,
     "details": "Ubiquiti AirCube AC WiFi Router | ACB-AC"
   },
   {
@@ -28,7 +28,7 @@
     "title": "ACB-ISP",
     "image": "https://scoop.co.za/download/marketing/images/ACB-ISP.jpg",
     "category": "Ubiquiti",
-    "price": "478.26",
+    "price": 478.26,
     "details": "Ubiquiti AirCube WiFi PoE Access Point with UNMS | ACB-ISP"
   },
   {
@@ -36,7 +36,7 @@
     "title": "AF-11FX",
     "image": "https://scoop.co.za/download/marketing/images/AF-11FX.jpg",
     "category": "Ubiquiti",
-    "price": "10691.3",
+    "price": 10691.3,
     "details": "Ubiquiti AirFiberX 11GHz PtP Radio | AF-11FX"
   },
   {
@@ -44,7 +44,7 @@
     "title": "AF-11FXDUPL",
     "image": "https://scoop.co.za/download/marketing/images/AF-11FXDUPL.jpg",
     "category": "Ubiquiti",
-    "price": "3300",
+    "price": 3300,
     "details": "Ubiquiti AirFiberX 11Ghz Low Band Duplexer | AF-11FX-DUP-L"
   },
   {
@@ -52,7 +52,7 @@
     "title": "AF-11G35",
     "image": "https://scoop.co.za/download/marketing/images/AF-11G35.jpg",
     "category": "Ubiquiti",
-    "price": "6652.17",
+    "price": 6652.17,
     "details": "Ubiquiti AirFiber Dish 11Ghz 35dBi 81cm | AF-11G35"
   },
   {
@@ -60,7 +60,7 @@
     "title": "AF-5XHD",
     "image": "https://scoop.co.za/download/marketing/images/AF-5XHD.jpg",
     "category": "Ubiquiti",
-    "price": "6865.22",
+    "price": 6865.22,
     "details": "Ubiquiti AirFiber5X HD PtP Radio Gigabit WiFi | AF-5XHD"
   },
   {
@@ -68,7 +68,7 @@
     "title": "AFI-INSK",
     "image": "https://scoop.co.za/download/marketing/images/AFI-INSK.jpg",
     "category": "Ubiquiti",
-    "price": "3126.09",
+    "price": 3126.09,
     "details": "Ubiquiti AmpliFi Instant Router +1 MeshPoint Kit | AFI-INS"
   },
   {
@@ -76,7 +76,7 @@
     "title": "AFI-INSR",
     "image": "https://scoop.co.za/download/marketing/images/AFI-INSR.jpg",
     "category": "Ubiquiti",
-    "price": "1717.39",
+    "price": 1717.39,
     "details": "Ubiquiti AmpliFi Instant Router | AFI-INS-R"
   },
   {
@@ -84,7 +84,7 @@
     "title": "AIR-D523X",
     "image": "https://scoop.co.za/download/marketing/images/AIR-D523X.jpg",
     "category": "Ubiquiti",
-    "price": "1821.74",
+    "price": 1821.74,
     "details": "Ubiquiti 5GHz AirFiber Dish 23dBi Slant 45 PtP | AF-5G23-S45"
   },
   {
@@ -92,7 +92,7 @@
     "title": "AIR-D530",
     "image": "https://scoop.co.za/download/marketing/images/AFI-INSR.jpg",
     "category": "Ubiquiti",
-    "price": "2304.35",
+    "price": 2304.35,
     "details": "Ubiquiti 5GHz AirMax Dish 30dBi Backhaul PtP | RD-5G30"
   },
   {
@@ -100,7 +100,7 @@
     "title": "AIR-D530LW",
     "image": "https://scoop.co.za/download/marketing/images/AFI-INSR.jpg",
     "category": "Ubiquiti",
-    "price": "1734.78",
+    "price": 1734.78,
     "details": "Ubiquiti 5GHz AirMax Dish 30dBi Light Weight PtP | RD-5G30-LW"
   }
 ]
